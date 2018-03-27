@@ -73,16 +73,16 @@ public class DrawView extends View {
         point1.y = 20;
 
         point2 = new Point();
-        point2.x = 150;
+        point2.x = 450;
         point2.y = 20;
 
         point3 = new Point();
-        point3.x = 150;
-        point3.y = 120;
+        point3.x = 450;
+        point3.y = 520;
 
         point4 = new Point();
         point4.x = 50;
-        point4.y = 120;
+        point4.y = 520;
 
         // declare each ball with the ColorBall class
         colorballs = new ArrayList<ColorBall>();
